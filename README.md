@@ -6,6 +6,9 @@
 ![wandb](https://user-images.githubusercontent.com/80602623/135304891-90ad8c15-55d7-43a8-8c87-d8c7453a2779.jpg)
 
 
+#wandb
+https://wandb.ai/zahra-norozzadeh/Persian_Recognition/runs/q7v0xfs4?workspace=user-zahra-norozzadeh
+
 
 #dataset flower
 https://drive.google.com/drive/folders/1waCQ3n4POhkW6y4rTf6ZmfyAp2fmJ6V7
